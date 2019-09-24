@@ -91,5 +91,11 @@ int main(int argc, char** argv) {
 	cout<<(inicio->ptr)->ptr->ptr->valor<<endl;
 	cout<<(inicio->ptr)->ptr->ptr->ptr->valor<<endl;
 
+
+        switch:
+            case 1;
+
+
+
 	 return 0;
 }
